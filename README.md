@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Sondonghee123%20GitHub&fontSize=90&fontColor=111111)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Donghee%20GitHub&fontSize=90&fontColor=111111)
 
 # 👋 2024 Goal 👋
 - 🤗 **Soaking Jaehwan Lee into cement** ✅
 - 🌱 **Improving Projects**
 - 🌹 **Code with elegance, not just functionality**
 - 💖 **Stay humble, stay hungry**
+- 
 
 # 🛠 Tech Stack 🛠
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
@@ -26,21 +27,18 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
-[![YangxGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangxGeon&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sondonghee123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sondonghee123&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangxGeon&layout=compact&theme=radical)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangxGeon&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://www.instagram.com/sondonghee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sondonghee123&layout=compact&theme=radical)
 
 --- 
+
 
 ### [ 2023 ]
 >2022.12 ~ 2023.02   
 >2023.03 ~ 2023.06
 
 ### [ 2024 ]
->2024.04 ~
+>2024.03 ~ 2024.09 (신한 DS 금융 SW 아카데미)
