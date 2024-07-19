@@ -1,11 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Donghee%20GitHub&fontSize=90&fontColor=111111)
 
 # 👋 2024 Goal 👋
-- 🤗 **Soaking Jaehwan Lee into cement** ✅
-- 🌱 **Improving Projects**
-- 🌹 **Code with elegance, not just functionality**
-- 💖 **Stay humble, stay hungry**
-- 
+- 🤗 
 
 # 🛠 Tech Stack 🛠
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
