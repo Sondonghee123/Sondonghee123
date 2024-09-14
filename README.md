@@ -38,9 +38,11 @@
 
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|중고 트레이딩 카드 거래, 카드득| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/cardget/cardAuction)|
+|미디어 저장소, 나만의 시리즈| Back : Java<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Private](https://img.shields.io/badge/Team-red) | 2024/01/08 ~ 2024/01/12| [Repo](https://github.com/Sondonghee123/My-Series)|
 |:---:|:---:|:---:|:---:|:---:|
-|중고 트레이딩 카드 거래, 똑똑| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/Knock-and-knock)|
+|중고 거래 및 실시간 경매 플랫폼, 희희낙찰| Back : Java, SpringBoot<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/Sh03Team05/HeeHee)|
+|:---:|:---:|:---:|:---:|:---:|
+|AI 대화형 금융 및 복지 서비스 앱, 똑똑| Back : Java, Spring<br> Front : HTMl, CSS, JS, React, PWA<br> DB: MySQL | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/Knock-and-knock)|
 
 
 # 🛠 Tech Stack 🛠
