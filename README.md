@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Donghee%20GitHub&fontSize=90&fontColor=111111)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Donghee's%20GitHub&fontSize=90&fontColor=111111)
 
 ## Skills
 
@@ -38,7 +38,7 @@
 
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|미디어 저장소, 나만의 시리즈| Back : Java<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Private](https://img.shields.io/badge/Team-red) | 2024/01/08 ~ 2024/01/12| [Repo](https://github.com/Sondonghee123/My-Series)|
+|미디어 저장소, 나만의 시리즈| Back : Java<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Private](https://img.shields.io/badge/Team-red) | 2024/04/08 ~ 2024/04/11| [Repo](https://github.com/Sondonghee123/My-Series)|
 |:---:|:---:|:---:|:---:|:---:|
 |중고 거래 및 실시간 경매 플랫폼, 희희낙찰| Back : Java, SpringBoot<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/Sh03Team05/HeeHee)|
 |:---:|:---:|:---:|:---:|:---:|
